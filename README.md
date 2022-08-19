@@ -12,4 +12,4 @@ A WebGL maze game built with Three.js and Box2dWeb. Play it here: http://wwwtyro
 ~~4. Open 'localhost:8000' in your browser~~
 ~~5. Enjoy!~~
 
-Launch this game by opening up the index.html file.
+Launch this game by downloading the zip and opening up the index.html file. I encoded the files into the files.js script, so that there aren't CORS errors, and you can play this without a webserver. I also added WASD controls support.
