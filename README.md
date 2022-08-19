@@ -4,7 +4,7 @@ A WebGL maze game built with Three.js and Box2dWeb. Play it here: http://wwwtyro
 
 ### Launching
 
-~~There are several ways to launch the game. Here is the simplest:
+~~There are several ways to launch the game. Here is the simplest:~~
 
 ~~1. Clone or download the repository~~
 ~~2. Navigate to Astray's directory~~
